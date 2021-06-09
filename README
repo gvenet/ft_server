@@ -1,0 +1,4 @@
+executer  "sh srcs/bongo.sh" dans votre terminal;
+ajouter l exeption pour le certificat dans votre naviguateur
+lancer localhost sur votre naviguateur;
+enjoy ! <3
